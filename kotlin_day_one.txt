@@ -1,0 +1,30 @@
+//println("hello world")//print basic wrold new line
+    
+   // print("hello world")//print basic hello world
+ //var
+    var temp:Int=100
+    println(temp)
+    temp =200
+    println(300)
+  //val
+    val m:Int =20
+    print(m)
+//val 2 number add
+    var a:Int=10
+    var b:Int =20
+    var c:Int=30
+    println("sum of ${a} and ${b} is ${a+b} or ${c}")
+    //string
+    var s:String ="miner"
+    println("my name is ${s}\nthankyou")
+//array
+    var a=arrayOf(1,2,3,4)
+    println(a[1])
+
+   //loop
+    var n:Int=5
+    for(i in 1..n)// i theke n prjnto condition
+    {
+        println(i)
+    }
+  
